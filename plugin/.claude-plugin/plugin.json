@@ -7,7 +7,21 @@
     "url": "https://temano.tipengstudio.com"
   },
   "homepage": "https://temano.tipengstudio.com/ai-agent-stuck-passkey/",
+  "repository": "https://github.com/tiipeng/temano-releases",
+  "documentationUrl": "https://github.com/tiipeng/temano-releases/blob/main/plugin/README.md",
+  "supportUrl": "https://temano.tipengstudio.com/support",
+  "privacyPolicyUrl": "https://temano.tipengstudio.com/privacy",
   "license": "MIT",
-  "keywords": ["human-in-the-loop", "passkey", "captcha", "mac", "iphone", "handoff", "remote"],
-  "skills": ["./skills/temano"]
+  "keywords": [
+    "human-in-the-loop",
+    "passkey",
+    "captcha",
+    "mac",
+    "iphone",
+    "handoff",
+    "remote"
+  ],
+  "skills": [
+    "./skills/temano"
+  ]
 }
