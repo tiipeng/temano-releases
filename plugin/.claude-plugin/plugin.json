@@ -1,0 +1,13 @@
+{
+  "name": "temano",
+  "description": "When an agent gets stuck at a passkey, password, CAPTCHA or confirmation on your Mac, it sends you a private link. You finish the step on your iPhone and the agent continues.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tipeng Studio",
+    "url": "https://temano.tipengstudio.com"
+  },
+  "homepage": "https://temano.tipengstudio.com/ai-agent-stuck-passkey/",
+  "license": "MIT",
+  "keywords": ["human-in-the-loop", "passkey", "captcha", "mac", "iphone", "handoff", "remote"],
+  "skills": ["./skills/temano"]
+}
